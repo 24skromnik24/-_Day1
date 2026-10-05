@@ -1,0 +1,54 @@
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.AssemblyReference.cache
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\MainWindow.g.cs
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\App.g.cs
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1_MarkupCompile.cache
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1_MarkupCompile.lref
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.exe.config
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.exe
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.pdb
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\MainWindow.baml
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.g.resources
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.Properties.Resources.resources
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.GenerateResource.cache
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.CoreCompileInputs.cache
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.exe
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.pdb
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\Library.dll
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\Library.pdb
+C:\Users\student1\Desktop\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDe.F3620640.Up2Date
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.exe.config
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.exe
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.pdb
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\Library.dll
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\Library.pdb
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.AssemblyReference.cache
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\MainWindow.g.cs
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\App.g.cs
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1_MarkupCompile.cache
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1_MarkupCompile.lref
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\MainWindow.baml
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.g.resources
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.Properties.Resources.resources
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.GenerateResource.cache
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.CoreCompileInputs.cache
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDe.F3620640.Up2Date
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.exe
+F:\Учебная практика 01\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.pdb
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.exe.config
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.exe
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\WpfAppDen_1.pdb
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\Library.dll
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\bin\Debug\Library.pdb
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.AssemblyReference.cache
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\MainWindow.g.cs
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\App.g.cs
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1_MarkupCompile.cache
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1_MarkupCompile.lref
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\MainWindow.baml
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.g.resources
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.Properties.Resources.resources
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.GenerateResource.cache
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.csproj.CoreCompileInputs.cache
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDe.F3620640.Up2Date
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.exe
+C:\Users\Виталий Сажин\Desktop\Долги\УП Егорова\День 1 Орос ИС-23-3 (переделанная)\WpfAppDen_1\WpfAppDen_1\obj\Debug\WpfAppDen_1.pdb
